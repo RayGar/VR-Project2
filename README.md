@@ -4,8 +4,8 @@ by Reynaldo Garcia and Luciano Wollffe
 
 ## Important Links:
 
-* [Video Demo Youtube link](link here)
-* [Video Demo mp4 file ](link here)
+* [Video Demo link](https://drive.google.com/open?id=1xUz7T3AI9QBWSocRU8L-k9X-nNCP7ZAa)
+* [Demo download file ](https://drive.google.com/open?id=1QWFHzX490jTPGgvQT6vgya2OPPAx7MRx)
 
 
 Project description:
@@ -16,41 +16,41 @@ Download the APK file and install it on an Android phone. Once you have done so 
 
 ## Self-created models/textures:
 
-*All the windows created by Ray in GIMP
+* All the windows created by Ray in GIMP
 
-*Rain texture Ray
+* Rain texture Ray
 
-*River created by Luciano in Blender
+* River created by Luciano in Blender
 
-*factory created by Luciano
+* factory created by Luciano
 
-*houses created by Luciano
+* houses created by Luciano
 
 Other game objects that are simple geometry were created inside the Unity Editor
 
 ## Imported models:
 
-*Smoke texture imported from: http://3png.com/b-1126653.html
+* Smoke texture imported from: http://3png.com/b-1126653.html
 
-*Basic Water Package imported by Unity
+* Basic Water Package imported by Unity
 
-*Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-4183
+* Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-4183
 
 ## Tutorials and Other References Used:
 
-*fixing a plane issue by the top answer in: https://answers.unity.com/questions/157604/objects-disappear-when-too-far-away.html
+* fixing a plane issue by the top answer in: https://answers.unity.com/questions/157604/objects-disappear-when-too-far-away.html
 
-*Research of the game's environmental science by Luciano. Please see the compiled Power Point presentation on them attatched to this project where the sources are included
+* Research of the game's environmental science by Luciano. Please see the compiled Power Point presentation on them attatched to this project where the sources are included
 
-*Adding fire: https://www.youtube.com/watch?v=qShjsxopbfQ
+* Adding fire: https://www.youtube.com/watch?v=qShjsxopbfQ
 
-*Importing the ocean system: https://www.youtube.com/watch?v=2bbDq-w8to4
+* Importing the ocean system: https://www.youtube.com/watch?v=2bbDq-w8to4
 
-*fixing clipping: https://answers.unity.com/questions/157604/objects-disappear-when-too-far-away.html
+* fixing clipping: https://answers.unity.com/questions/157604/objects-disappear-when-too-far-away.html
 
-*Unity's official documentation: https://docs.unity3d.com/Manual/index.html
+* Unity's official documentation: https://docs.unity3d.com/Manual/index.html
 
-*Adding a skybox into the scene: 
+* Adding a skybox into the scene: 
 
 
 
@@ -69,18 +69,32 @@ rain particle system,imported the ocean system from Unity's Standard Assets pack
 
 # Issues:
 
-*Clipping: We wanted our scene to be big. This is because the game takes place all around an island city. This leads to a couple of development issues. One of them involved
+* Clipping: We wanted our scene to be big. This is because the game takes place all around an island city. This leads to a couple of development issues. One of them involved
 what they call clipping. When the FPS moves around the terain becomes less visible. This means that the user cannot look at the whole city at once. So what we found online
 is that the field of view attribute in the Main Camera object had to be set to an arbritarily large sized value. This fixed the issue.
 
-*We want certain events to occur once the user clicks on a given object. This is called the interactions. For example clicking on the factory opens up a window.
+* We want certain events to occur once the user clicks on a given object. This is called the interactions. For example clicking on the factory opens up a window.
 At first we were using box colliders, then I told Luciano to use the UI buttons on the window instead. We then together looked up how to use the buttons in Unity's own documentation
 and how our scripts would have to be written in order to be compatible with them.
 
-*Most interestingly Ray was not able to test on his computer resulting from a setting somewhere deep inside his laptop that would not allow him to deploy APK's into his Android phone
+* Most interestingly Ray was not able to test on his computer resulting from a setting somewhere deep inside his laptop that would not allow him to deploy APK's into his Android phone
 and Luciano did not have an Android device of his own. So we had to test on a live device using Luciano's laptop and Ray's phone.
 
 
-Project structure:
+# References for the information displayed on the windows
 
-
+* Algae information: 
+https://www.epa.gov/nutrientpollution/harmful-algal-blooms
+* Dead zone picture: 
+http://laterallineco.com/blog/marine-dead-zones-not-just-in-the-chesaepake-bay-dead-zones-expanding-around-the-worlds-oceans/
+* Burning River information: 
+https://www.alleghenyfront.org/how-a-burning-river-helped-create-the-clean-water-act/
+* Water injection information:
+http://www.ohioenvironmentallawblog.com/2008/09/articles/climate-change/carbon-sequestration-regulation-and-permitting-moves-forward/
+* Factory Waste disposal and EPA information: 
+http://smallbusiness.chron.com/dispose-industrial-chemicals-40938.html
+* Nuclear info links:
+https://www.conserve-energy-future.com/dangers-and-effects-of-nuclear-waste-disposal.php
+https://science.howstuffworks.com/nuclear-waste-disposal.htm
+* Acid rain information: 
+https://www.epa.gov/acidrain/what-acid-rain
