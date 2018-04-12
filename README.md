@@ -5,7 +5,8 @@ by Reynaldo Garcia and Luciano Wollffe
 ## Important Links:
 
 * [Video Demo link](https://drive.google.com/open?id=1xUz7T3AI9QBWSocRU8L-k9X-nNCP7ZAa)
-* [Demo download file ](https://drive.google.com/open?id=1QWFHzX490jTPGgvQT6vgya2OPPAx7MRx)
+* [Demo download file ](https://drive.google.com/open?id=1xb9waNWEBPIygk10AJDMM2DCqCHR93H3)
+
 
 
 Project description:
@@ -20,11 +21,15 @@ Download the APK file and install it on an Android phone. Once you have done so 
 
 * Rain texture Ray
 
-* River created by Luciano in Blender
+* River algae created by Luciano in Blender
 
 * factory created by Luciano
 
-* houses created by Luciano
+* houses and cars created by Luciano
+
+* Trash in the river by Luciano
+
+* Water Treatment facilityby Luciano
 
 Other game objects that are simple geometry were created inside the Unity Editor
 
@@ -34,7 +39,7 @@ Other game objects that are simple geometry were created inside the Unity Editor
 
 * Basic Water Package imported by Unity
 
-* Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-4183
+* River imported from the basic water system standard package by Ray
 
 ## Tutorials and Other References Used:
 
@@ -50,21 +55,17 @@ Other game objects that are simple geometry were created inside the Unity Editor
 
 * Unity's official documentation: https://docs.unity3d.com/Manual/index.html
 
-* Adding a skybox into the scene: 
-
 
 
 # Duties:
 
 ## Luciano:
 
-Houses, factory, river with algae, scripts that control an interaction (partial), enabling scripts to make the correct windows appear during their right interactions, researched all 
-of the water resource facts that appear on the windows, and compilec them into the Powerpoint Presentation.
+Houses, factory, river with algae, scripts that control an interaction (partial), enabling scripts to make the correct windows appear during their right interactions, researched all of the water resource facts that appear on the windows, and compiled them into the Powerpoint Presentation. Edited the Google Cardboard SDK to be compatible with our game. The three windows that serve as the in-game tutorial.
 
 ## Ray:
 
-The big body of water (not the river), the first-person controller, the skybox, designed all the windows in GIMP, the smoke particle systems, the fire particle system, the 
-rain particle system,imported the ocean system from Unity's Standard Assets package.
+The big body of water along with the river, the first-person controller, designed all the windows in GIMP, the smoke particle systems, the fire particle system, the rain particle systems (normal rain and acid rain), imported the ocean system from Unity's Standard Assets package. Imported the Google Cardboard SDK.
 
 
 # Issues:
