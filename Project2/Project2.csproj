@@ -360,6 +360,8 @@
     <Compile Include="Assets\Scripts\object_manager_var2.cs" />
     <Compile Include="Assets\Scripts\object_manager_var3.cs" />
     <Compile Include="Assets\Scripts\object_manager_var4.cs" />
+    <Compile Include="Assets\Scripts\object_manager_var5.cs" />
+    <Compile Include="Assets\Scripts\object_manager_var6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Day Night Cycle\ReadMe.txt" />

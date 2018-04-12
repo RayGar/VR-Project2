@@ -31,7 +31,7 @@ public class object_manager_var3 : MonoBehaviour {
 
 		//print("Do now");
 		//5f
-		yield return new WaitForSeconds(3f);
+		yield return new WaitForSeconds(1f);
 		//Destroy (this.gameObject);
 		next_window1.SetActive (true);
 		next_window2.SetActive (true);
